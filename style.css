@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 50px;
+    background-color: rgb(93, 216, 216);
+    text-align: center;
+    font-style: oblique;
+
+}
+.top_left{
+    height: 80px;
+    width: 15%;
+    background-color: rgb(228, 95, 18);
+    float: left;
+    text-align: center;
+
+}
+.top_right{
+    height: 80px;
+    width: 85%;
+    background-color: rgb(16, 147, 207);
+    float: left;
+    text-align: center;
+}
+.section_one{
+    overflow: hidden;
+}
+.bar_one{
+    height: 120px;
+    width: 20%;
+    background-color: cornflowerblue;
+    float: left;
+    text-align: center;
+
+}
+.bar_two{
+    height: 120px;
+    width: 20%;
+    background-color: rgb(243, 163, 42);
+    float: left;
+    text-align: center;
+
+}
+.bar_three{
+    height: 120px;
+    width: 20%;
+    background-color: rgb(54, 253, 81);
+    float: left;
+    text-align: center;
+
+}
+.bar_four{
+    height: 120px;
+    width: 20%;
+    background-color: rgb(75, 173, 18);
+    float: left;
+    text-align: center;
+
+}
+.bar_five{
+
+    height: 120px;
+    width: 20%;
+    background-color: cornflowerblue;
+    float: left;
+    text-align: center;
+}
+.section_two{overflow: hidden;}
+.divider_left{
+    height: 350px;
+    width: 65%;
+    float: left;
+    background-color: rgb(248, 94, 94);
+    text-align: center;
+
+}
+.divider_right{
+    height: 350px;
+    width: 35%;
+    float: left;
+    text-align: center;
+
+}
+.right_one{
+    height: 50%;
+    width: 100%;
+    background-color: rgb(115, 175, 55);
+    text-align: center;
+
+}
+.right_two{
+    height: 50%;
+    width: 100%;
+    background-color: rgb(20, 122, 153);
+    text-align: center;
+
+}
+.section_three{overflow: hidden;}
+.footer{
+    height: 80px;
+    width: 100%;
+    background-color: cornflowerblue;
+    text-align: center;
+
+}
